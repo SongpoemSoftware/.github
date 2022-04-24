@@ -20,6 +20,10 @@
 - GraphQL - relay or react-query or Apollo
 - CSS - TailwindCSS
 
+#### Frontend app (To Be Started)
+- Phoenix LiveView
+- CSS - TailwindCSS, DaisyUI
+
 
 #### Mobile App 📱 (To Be Started)
 - React Native
