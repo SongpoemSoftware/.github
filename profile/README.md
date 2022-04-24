@@ -1,5 +1,4 @@
 ## SONGPOEM SOFTWARE
-##### We are accepting new projects 🚀  🚀  🚀 
 
 ### Sample Codebase 🚀 👨🏻‍💻 👩🏻‍💻
 
@@ -34,3 +33,8 @@
 #### Elixir
 - [Longest Compond Word](https://github.com/songpoem-com/elixir-code-quiz/tree/main/longest_compond_word/)
 - [Closest square root](https://github.com/songpoem-com/elixir-code-quiz/tree/main/closest_square_root/)
+
+##### About Songpoem Software 🚀 🚀 🚀 
+- We are remotely Distributed team.
+- Served clients from the US, Germany, Singapore and India
+- send email to sandesh dot soni @ songpoem dot com
