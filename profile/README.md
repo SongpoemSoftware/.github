@@ -20,7 +20,7 @@
 
 ### Codekata
 #### Elixir
-- [Longest Compond Word](https://github.com/songpoem-com/elixir-code-quiz/longest_compond_word/)
-- [Closest square root](https://github.com/songpoem-com/elixir-code-quiz/closest_square_root/)
+- [Longest Compond Word](https://github.com/songpoem-com/elixir-code-quiz/tree/main/longest_compond_word/)
+- [Closest square root](https://github.com/songpoem-com/elixir-code-quiz/tree/main/closest_square_root/)
 
 # .github
