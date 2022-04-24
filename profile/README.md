@@ -1,12 +1,16 @@
 # SONGPOEM SOFTWARE
 
-### Code Samples
+### Sample Apps
 
 #### A web app providing GraphQL APIs
 - Backend - ELixir Lang, Phoenix framework
 - GraphQL - AbsInthe
 - Event driven - EventBus
 - Tests - unit tests, graphQL tests, Mock
+
+#### [Teller App](https://github.com/songpoem-com/TellerService)
+- Backend - Elixir-lang
+- Test - Unit test
 
 #### Frontend app (To Be Started)
 - Reactjs
