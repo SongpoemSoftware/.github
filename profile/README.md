@@ -34,9 +34,9 @@
 - We use Figma for designing UX
 
 ### Codekata
-#### Elixir
-- [Longest Compond Word](https://github.com/songpoemsoftware/elixir-code-quiz/tree/main/longest_compond_word/)
-- [Closest square root](https://github.com/songpoemsoftware/elixir-code-quiz/tree/main/closest_square_root/)
+#### quiz-title [programming-language]
+- Longest Compond Word [[Elixir]](https://github.com/songpoemsoftware/elixir-code-quiz/tree/main/longest_compond_word/)
+- Closest square root [[Elixir]](https://github.com/songpoemsoftware/elixir-code-quiz/tree/main/closest_square_root/)
 
 ##### About Songpoem Software 🚀 🚀 🚀 
 - We are remotely Distributed team.
