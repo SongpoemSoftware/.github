@@ -20,6 +20,7 @@
 - People add stall of their products in their region.
 - Backend using Elixir-lang
 - Frontend using Phoenix Liveview.
+- Image upload using Phoenix Liveview
 - Styling using TailwindCSS.
 
 #### Frontend app (To Be Started)
