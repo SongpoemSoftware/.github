@@ -15,6 +15,13 @@
 - Backend - Elixir-lang
 - Test - Unit test
 
+#### [Atmanirbhar](https://github.com/SongpoemSoftware/atmanirbhar)
+- An app for virtual fun-fare / virtual-mall.
+- People add stall of their products in their region.
+- Backend using Elixir-lang
+- Frontend using Phoenix Liveview.
+- Styling using TailwindCSS.
+
 #### Frontend app (To Be Started)
 - Reactjs OR Svelte
 - GraphQL - relay or react-query or Apollo
