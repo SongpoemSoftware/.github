@@ -16,7 +16,9 @@
 - GraphQL - AbsInthe
 - Event driven - EventBus
 - Tests - unit tests, graphQL tests, Mock
-- Telemetry
+- Telemetry (pending)
+- Cache Mechanism. Redis or similar. (pending)
+- Job Processer - OBAN. (pending)
 
 #### [Teller App](https://github.com/songpoemsoftware/TellerService)
 - An app for Banking APIs 💳 🏦
