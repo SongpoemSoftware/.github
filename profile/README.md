@@ -2,6 +2,14 @@
 
 ### Sample Codebase 🚀 👨🏻‍💻 👩🏻‍💻
 
+#### [WilWestStore](https://github.com/SongpoemSoftware/WildWestStore)
+- An invoice maker for a store.
+- calculate variable taxes and add to product price.
+- Final reciept mentions price, tax and the total.
+- Elixir Code
+- Unit tests written.
+- TDD way.
+
 #### [Dakghar](https://github.com/songpoemsoftware/dakghar_umbrella)
 - A web app providing GraphQL APIs
 - Backend - ELixir Lang, Phoenix framework
