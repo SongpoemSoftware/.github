@@ -10,11 +10,10 @@
 - Unit tests written.
 - TDD way.
 
-#### [Elixir Secure Code Examples](https://github.com/SongpoemSol/Elixir-security
-)
+
+#### [Elixir Secure Code Examples](https://github.com/SongpoemSol/Elixir-security)
 - Examples using Core Elixir
 - Function level Access Control
-
 
 #### [Dakghar](https://github.com/songpoemsoftware/dakghar_umbrella)
 - A web app providing GraphQL APIs
