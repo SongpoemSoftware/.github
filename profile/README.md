@@ -1,5 +1,10 @@
 ## SONGPOEM SOFTWARE
 
+### Codekata
+Solved in Elixir-lang and more.
+[Code Kata](https://github.com/SongpoemSol/code-katas)
+
+
 ### Sample Codebase 🚀 👨🏻‍💻 👩🏻‍💻
 
 #### [WilWestStore](https://github.com/SongpoemSoftware/WildWestStore)
@@ -55,11 +60,6 @@
 
 ### Sample UX 👩‍🎨 👨‍🎨
 - We use Figma for designing UX
-
-### Codekata
-#### quiz-title [programming-language]
-- Longest Compond Word [[Elixir]](https://github.com/songpoemsoftware/elixir-code-quiz/tree/main/longest_compond_word/)
-- Closest square root [[Elixir]](https://github.com/songpoemsoftware/elixir-code-quiz/tree/main/closest_square_root/)
 
 ##### About Songpoem Software 🚀 🚀 🚀 
 - We are remotely Distributed team.
